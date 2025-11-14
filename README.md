@@ -343,11 +343,11 @@ This project is intended for **academic research and educational purposes only**
 
 ## Author & Contact
 
-**Developer**: Boyu (Neural Engineering, Duke University)
+**Developer**: Boyu Qian(Neural Engineering, Duke University)
 
 For questions, bug reports, or collaboration inquiries:
 - Submit issues to the project repository
-- Contact: [Your institutional email]
+- Contact: boyu.qian@duke.edu
 
 ## Acknowledgments
 
